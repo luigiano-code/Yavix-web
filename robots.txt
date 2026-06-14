@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luigiano-code.github.io/YavixOs/sitemap.xml
